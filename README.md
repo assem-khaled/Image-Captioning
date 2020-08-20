@@ -1,7 +1,7 @@
 # Udacity Computer Vision ND Image Captioning Project
 
 Image Captioning is the process of generating textual description of an image. In this project, I have implemented
-a Deep Learning Model inspired by [this paper](https://arxiv.org/pdf/1502.03044.pdf) and [this paper](https://arxiv.org/pdf/1411.4555.pdf) using [COCO data](http://cocodataset.org/) set by Microsoft and trained the network for nearly 10 hrs using GPU.
+a Deep Learning Model inspired by [this paper](https://arxiv.org/pdf/1502.03044.pdf) and [this paper](https://arxiv.org/pdf/1411.4555.pdf) using [COCO dataset](http://cocodataset.org/) by Microsoft and trained the network for nearly 10 hrs using GPU.
 <p align="center">
   <img src="./images/encoder-decoder.png" width=100% height=100% />
 </p>
